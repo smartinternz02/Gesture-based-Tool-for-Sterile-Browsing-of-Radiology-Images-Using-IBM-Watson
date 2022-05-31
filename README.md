@@ -40,4 +40,4 @@ Model launch page:                                      Predicting results using
 - https://drive.google.com/drive/u/0/folders/1Pst64-F51OhD3qD-2Vkuc7TBcQ4WoI21
 
 ## Video Demonstration link
-https://www.youtube.com/watch?v=qC1SR3rWMiI
+- https://www.youtube.com/watch?v=qC1SR3rWMiI
