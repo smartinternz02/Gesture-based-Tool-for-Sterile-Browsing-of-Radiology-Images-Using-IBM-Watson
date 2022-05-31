@@ -17,13 +17,13 @@ if the prediction is,
 ## Output
 <pre>
 Home page:                                              Introduction page:
-<img src="https://github.com/AnuragSomani1611/IMAGES/blob/main/Screenshot%20(335).png"  width="400" height="200" />  <img src="https://github.com/AnuragSomani1611/IMAGES/blob/main/Screenshot%20(336).png" width="400" height="200" />
+<img src="https://github.com/DarshGupta1910/Images/blob/main/Intro.png"  width="400" height="200" />  <img src="https://github.com/DarshGupta1910/Images/blob/main/Intro.png" width="400" height="200" />
 
 Model launch page:                                      Predicting results using Random Image:
-<img src="https://github.com/AnuragSomani1611/IMAGES/blob/main/Screenshot%20(337).png" width="400" height="200" />  <img src="https://github.com/AnuragSomani1611/IMAGES/blob/main/photo_2021-07-31_12-14-32.jpg" width="400" height="200" />
+<img src="https://github.com/DarshGupta1910/Images/blob/main/launch.png" width="400" height="200" />  <img src="https://github.com/DarshGupta1910/Images/blob/main/output1.png" width="400" height="200" />
 
                                                   Real Time Example:
-                                <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1067502708000297-gr1.jpg" width="400" height="200" />
+                                <img src="https://github.com/DarshGupta1910/Images/blob/main/output2.png" width="400" height="200" />
 
 </pre>
 ## Dataset 
